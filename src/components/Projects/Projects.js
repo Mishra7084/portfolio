@@ -10,7 +10,7 @@ export function Projects() {
                     <img
                         class="card-img-top p-3"
                         src="/project.png"
-                        alt="Card cap"/>
+                        alt="Card-cap"/>
 
                     <div class="card-body">
                         <h5 class="card-title">Wanderlust</h5>
@@ -46,8 +46,8 @@ export function Projects() {
                     <img
                         class="card-img-top p-3"
                         src="/project.png"
-                        alt="Card cap"/>
-                        
+                        alt="Card-cap"/>
+
                     <div class="card-body">
                         <h5 class="card-title mb-2">Zerodha Clone</h5>
                         <p class="card-text fs-6 mt-3">
